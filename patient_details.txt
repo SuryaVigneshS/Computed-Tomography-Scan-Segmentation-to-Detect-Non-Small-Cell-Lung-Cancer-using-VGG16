@@ -1,0 +1,24 @@
+Name: Ujwal
+Age: 21
+Gender: Male
+Contact: 6666666666
+Email: ABC@gamil.com
+Symptoms: Cough
+Prediction: NON-SMALL CELL LUNG CANCER
+--------------------------------------------------
+Name: samarth
+Age: 22
+Gender: Male
+Contact: 4576467437
+Email: dd@gmail.com
+Symptoms: cold,cough,dirnks,smoking,changing brand ,
+Prediction: NON-SMALL CELL LUNG CANCER
+--------------------------------------------------
+Name: Surya Vignesh S
+Age: 21
+Gender: Male
+Contact: 8867586444
+Email: aaasuryaleader5@gmail.com
+Symptoms: gfwe
+Prediction: NON-SMALL CELL LUNG CANCER
+--------------------------------------------------
